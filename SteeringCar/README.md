@@ -24,12 +24,12 @@
 ## steering-knuckle.stl
 前輪を固定するためのパーツです。２個出力して両輪に使います。
 
-[https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-knuckle.png]
+![steering-knuckle.stl](https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-knuckle.png)
 
 ## steering-servo-stay2.stl
 マイクロサーボ（SG90）を固定するためのパーツです。１個出力して、サーボを挟み込む形でユニバーサルプレートに固定します。
 
-[https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-servo-stay2.png]
+![steering-servo-stay2.stl](https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-servo-stay2.png)
 
 
 
