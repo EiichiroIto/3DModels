@@ -1,4 +1,6 @@
 # Steering Car
+![topview](https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-car-topview.jpg)
+
 タミヤのユニバーサルプレートを使って前輪操舵式の車をつくるための3Dモデルです。
 駆動部分についてはご自身で作成してください。
 
@@ -36,8 +38,7 @@
 ![steering-servo-stay2.stl](https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-servo-stay2.png)
 
 ## ステアリングロッド
+![topview](https://github.com/EiichiroIto/3DModels/blob/main/SteeringCar/images/steering-car-bottomview.jpg)
+
 太めの針金をつかってステアリングロッドを作成します。中央部分には細めの針金をハンダ付けし、シングルアームの穴に通します。
-
-
-
 
